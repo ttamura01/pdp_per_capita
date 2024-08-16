@@ -1,4 +1,4 @@
-setwd("/Users/takayukitamura/Documents/R_Computing/us_pop_gdp")
+setwd("/Users/takayukitamura/Documents/R_Computing/us_pop_gdp/gdp_per_capita")
 library(tidyverse)
 library(patchwork)
 library(ggtext)
